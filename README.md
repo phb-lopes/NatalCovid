@@ -1,6 +1,4 @@
-# NatalCovid2020
-
-[![Build Status](https://travis-ci.com/LiamWellacott/NatalCovid2020.svg?token=9ttsAxYFDwyKqpVMG1qC&branch=master)](https://travis-ci.com/LiamWellacott/NatalCovid2020) [![codecov](https://codecov.io/gh/LiamWellacott/NatalCovid2020/branch/master/graph/badge.svg?token=KSG2T7IXRU)](https://codecov.io/gh/LiamWellacott/NatalCovid2020)
+# Measuring the impact of nonpharmaceutical interventions on the SARS-CoV-2 pandemic at a city level: An agent-based computational modelling study of the City of Natal
 
 This model is based on agents (citizens) and simulates the interaction between agents on a daily basis, the transmission of the disease (Covid19) between the agents and the disease progression in the agent. The differential of this model will be the implementation of different modes of interaction between agents, simulating the different means that can be used in eventual non-pharmaceutical strategies to combat the epidemic.
 
